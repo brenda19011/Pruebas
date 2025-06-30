@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
+  ![GitHub repo size](https://github.com/brenda19011/Pruebas/edit/main/README.md)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
@@ -9,11 +9,11 @@
   <br />
   <br />
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+  <h2 align="center">Guardianes Seguros</h2>
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Guardianes Seguros, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/brenda19011/Pruebas/edit/main/README.md/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,28 +21,28 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Guardianes Seguros](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://github.com/brenda19011/Pruebas/edit/main/README.md") must be installed on your operating system.
 
 ### Run Locally
 
-To run **Grilli** locally, run this command on your git bash:
+To run **Guardianes Seguros** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/brenda19011/Pruebas/edit/main/README.md
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+https://github.com/brenda19011/Pruebas/edit/main/README.md
 ```
 
 ### Contact
