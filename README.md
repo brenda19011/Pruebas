@@ -13,7 +13,7 @@
 
   https://github.com/brenda19011/Pruebas, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/brenda19011/Pruebas"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Grilli** locally, run this command on your git bash:
+To run **GuardianesSeguros** locally, run this command on your git bash:
 
 Linux and macOS:
 
