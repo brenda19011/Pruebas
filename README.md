@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+  <h2 align="center">Guardianes Seguros</h2>
 
   https://github.com/brenda19011/Pruebas, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
